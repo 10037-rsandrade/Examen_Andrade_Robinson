@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\Ex_Andradre_Robinson\SLC\bin\Debug\SLC.dll
+C:\Users\Usuario\source\repos\Ex_Andradre_Robinson\SLC\bin\Debug\SLC.pdb
+C:\Users\Usuario\source\repos\Ex_Andradre_Robinson\SLC\bin\Debug\Entities.dll
+C:\Users\Usuario\source\repos\Ex_Andradre_Robinson\SLC\bin\Debug\Entities.pdb
+C:\Users\Usuario\source\repos\Ex_Andradre_Robinson\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ex_Andradre_Robinson\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ex_Andradre_Robinson\SLC\obj\Debug\SLC.csproj.Up2Date
+C:\Users\Usuario\source\repos\Ex_Andradre_Robinson\SLC\obj\Debug\SLC.dll
+C:\Users\Usuario\source\repos\Ex_Andradre_Robinson\SLC\obj\Debug\SLC.pdb
